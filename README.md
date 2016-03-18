@@ -1,7 +1,13 @@
-# Coding Bootcamp Presentation
+# Coding Bootcamp Talk
 
-These are slides for a talk given to students at a coding bootcamp.
+This repository contains slides and notes for a talk intended for students at a
+coding bootcamp.
 
-All code open source under the [ISC License](LICENSE.md).
+The slides are intended to accompany a verbal presentation and may not make
+sense without that context.
 
-[Chris Oakman](mailto:chris@oakmac.com)
+## License
+
+[ISC License]
+
+[ISC License]:LICENSE.md
